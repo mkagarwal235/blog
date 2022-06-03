@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "CodingThunder",
+    "tagline": "Heaven for programmer",
+    "gmail-user": "user_Id",
+    "gmail-password": "User_password",
+    "about_text": "Hie I am monu kumar and This blog is designed and managed by me.For more detail contact me.",
+    "no-of-post": 3,
+    "login_img": "bootstrap-logo.svg",
+    "admin_user": "monukumar",
+    "admin_password": "agarwal",
+    "upload_location": "C:\\Users\\cws\\PycharmProjects\\web-site\\static"
+
+  }
+}
